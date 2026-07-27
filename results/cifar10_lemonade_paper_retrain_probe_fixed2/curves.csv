@@ -1,0 +1,2 @@
+arch_index,arch_id,epoch,test_loss,test_accuracy,best_test_loss,best_test_accuracy,params
+0,ss1_0C16-__1C128-__2C256-,1,2.1888749599456787,0.1860000044107437,2.1888749599456787,0.1860000044107437,317146

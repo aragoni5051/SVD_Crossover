@@ -1,0 +1,32 @@
+[
+  {
+    "method": "svd_crossover_same_dim",
+    "runs": 100,
+    "mean_final_accuracy": 0.803861111111111,
+    "std_final_accuracy": 0.04617474784793417,
+    "mean_final_loss": 0.6920052349826904,
+    "std_final_loss": 0.14248462098382517,
+    "mean_final_params": 2024.08,
+    "std_final_params": 925.0856982414705,
+    "mean_first_final_topology_generation": 106.66,
+    "std_first_final_topology_generation": 118.64199777635085,
+    "mean_first_majority_topology_generation": 185.15,
+    "std_first_majority_topology_generation": 131.89553373098656,
+    "mean_final_topology_share": 0.596,
+    "std_final_topology_share": 0.3209581614699047,
+    "mean_crossover_shape_match_rate": 0.6100221413552033,
+    "std_crossover_shape_match_rate": 0.04036780797762919,
+    "mean_crossover_shape_match_events": 2435.74,
+    "std_crossover_shape_match_events": 160.0324853385598,
+    "mean_crossover_shape_match_layers": 4327.4,
+    "std_crossover_shape_match_layers": 532.8000932750851,
+    "mean_crossover_shape_mismatch_rate": 0.34285211446156727,
+    "std_crossover_shape_mismatch_rate": 0.05638702229658719,
+    "mean_crossover_shape_mismatch_events": 1369.22,
+    "std_crossover_shape_mismatch_events": 226.22575566290527,
+    "mean_crossover_shape_mismatch_layers": 2432.63,
+    "std_crossover_shape_mismatch_layers": 529.7588484157178,
+    "most_common_final_topology": "64-10",
+    "most_common_final_topology_count": 23
+  }
+]

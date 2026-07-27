@@ -1,0 +1,2 @@
+arch_index,arch_id,final_test_loss,final_test_accuracy,best_test_loss,best_test_accuracy,params,arch_json
+0,ss1_0C16-__1C128-__2C256-,2.1888749599456787,0.1860000044107437,2.1888749599456787,0.1860000044107437,317146,"{""next_block_id"": 3, ""stages"": [[{""block_id"": 0, ""op"": ""conv"", ""out_channels"": 16, ""skip_from"": null}], [{""block_id"": 1, ""op"": ""conv"", ""out_channels"": 128, ""skip_from"": null}], [{""block_id"": 2, ""op"": ""conv"", ""out_channels"": 256, ""skip_from"": null}]]}"

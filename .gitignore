@@ -14,3 +14,7 @@ results/
 *.log
 
 tmp_*.py
+
+# Experiment outputs are intentionally versioned for this research repository.
+!results/
+!results/**

@@ -1,0 +1,4 @@
+method,run,seed,generation,pareto_size,best_loss,best_accuracy,best_params,best_arch,smallest_params,smallest_accuracy,accepted_children
+lemonade_paper_search_space_i,0,0,1,5,2.2373430728912354,0.19200000166893005,53794,ss1_0C24-__1C48-__2C96-,16741,0.11800000071525574,2
+lemonade_paper_search_space_i,0,0,2,3,2.071622848510742,0.23800000548362732,317146,ss1_0C16-__1C128-__2C256-,16741,0.11800000071525574,2
+lemonade_paper_search_space_i,0,0,3,4,2.071622848510742,0.23800000548362732,317146,ss1_0C16-__1C128-__2C256-,16741,0.11800000071525574,2

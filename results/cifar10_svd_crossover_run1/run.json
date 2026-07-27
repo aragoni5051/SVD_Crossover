@@ -1,0 +1,43 @@
+{
+  "config": {
+    "population": 8,
+    "generations": 20,
+    "hidden_widths": [
+      128,
+      64
+    ],
+    "r_max": 32,
+    "gd_steps": 10,
+    "gd_lr": 0.001,
+    "batch_size": 256,
+    "crossover_rate": 0.7,
+    "mode_mutation_rate": 0.1,
+    "alpha_mutation_scale": 0.05,
+    "direction_mutation_scale": 0.01,
+    "bias_mutation_scale": 0.01,
+    "tournament_size": 3,
+    "elite_size": 1,
+    "seed": 0
+  },
+  "data": {
+    "image_size": 16,
+    "train_samples": 10000,
+    "validation_samples": 2000,
+    "test_samples": 2000,
+    "normalization": {
+      "mean": 0.47411882877349854,
+      "std": 0.2356487512588501
+    }
+  },
+  "summary": {
+    "validation_loss": 1.6786782043456867,
+    "validation_accuracy": 0.3935,
+    "test_loss": 1.6570230474995655,
+    "test_accuracy": 0.4005,
+    "parameters": 107338,
+    "topology": "768-128-64-10",
+    "elapsed_seconds": 34.59320080000907,
+    "crossover_attempts": 95,
+    "mutated_modes": 960
+  }
+}
